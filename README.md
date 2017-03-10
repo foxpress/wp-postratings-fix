@@ -1,0 +1,2 @@
+# wp-postratings-fix
+plugin
